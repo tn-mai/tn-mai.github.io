@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanaka Experimental Design Bureau</title>
+    <link></link>
+    <atom:link rel="self" type="application/rss+xml" href="" />
+    <description></description>
+    <pubDate>Tue, 02 Aug 2016 20:03:23 +0900</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2016 20:03:23 +0900</lastBuildDate>
+    
+    <item>
+      <title>Welcome to Jedie!</title>
+      <link>/2016/08/02/welcome-to-jedie.html</link>
+      <guid isPermaLink="false">tag:vim-jp.org,2016/00/02:/2016/08/02/welcome-to-jedie.html,rev:1</guid>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0900</pubDate>
+      <author>vim-jp</author>
+      <description>&#xA;You&#39;ll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!&#xA;To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&#xA;&#xA;Jekyll also offers powerful support for code snippets:&#xA;&#xA;    package main&#xA;    &#xA;    import &#34;fmt&#34;&#xA;    &#xA;    func main() {&#xA;&#x9;    fmt.Println(&#34;こんにちわ世界&#34;)&#xA;    }&#xA;&#xA;Check out the [Jedie][jedie-gh] for more info.&#xA;&#xA;[jedie-gh]: https://github.com/mattn/jedie&#xA;</description>
+    </item>
+    
+  </channel> 
+</rss>

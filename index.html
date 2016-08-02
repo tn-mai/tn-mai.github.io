@@ -1,0 +1,16 @@
+---
+layout: default
+title: Main page of Tanaka Experimental Design Bureau
+---
+<div id="home">
+  <h1>Tanaka Experimental Design Bureau</h1>
+  <hr>
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h1>Privacy Policy</h1>
+  <a href="{{site.baseurl}}/SunnySideUpPrivacyPolicy.html">Sunny Side Up Privacy Policy</a>
+</div>

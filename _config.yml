@@ -1,0 +1,8 @@
+name: Tanaka Experimental Design Bureau
+description: This is a site of Tanaka Experimental Design Bureau
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
